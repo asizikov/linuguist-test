@@ -1,0 +1,12 @@
+
+name: 🧪 Test Workflow
+
+on: 
+  workflow_dispatch:
+
+jobs:
+  print-tag:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 👨‍🔬 Run test workflow
+        run: echo 'this is a test workflow'
