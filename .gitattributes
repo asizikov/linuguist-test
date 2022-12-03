@@ -2,3 +2,5 @@
 *.yml linguist-language=YAML
 *.yaml linguist-detectable
 *.yaml linguist-language=YAML
+# GitHub.com unvendor
+.github/** -linguist-vendored
