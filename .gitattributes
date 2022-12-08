@@ -1,6 +1,6 @@
 *.yml linguist-detectable
-*.yml linguist-language=YAML
+*.yml linguist-language=Java
 *.yaml linguist-detectable
-*.yaml linguist-language=YAML
+*.yaml linguist-language=Java
 # GitHub.com unvendor
 .github/** -linguist-vendored
